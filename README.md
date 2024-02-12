@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Lun Hung 👋
 
-<!--
-**CloudLun/CloudLun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a front-end developer specializing in data visualization, passionate about crafting captivating and interactive websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖼️ You can check out my portfolio website <a href="[https://readme.com/](https://haolunhung.com/)" target="_blank">hear</a>
+- 🔭 I’m currently working on Floodgen
+- 🌱 I’m currently learning Node.js, MongoDB, and frontend skills.
+- 📫 How to reach me: <a href="mailto:cloud830902@gmail.com?">cloud830902@gmail.com</a>
+- 😄 Pronouns: He/Him
+
+
+  ##Technologies
+
+
+
